@@ -1,3 +1,4 @@
+clean my code:
 <!DOCTYPE html>
 <html lang="en" style="width: 100%; height: 100%">
 
